@@ -1,0 +1,10 @@
+# Backups
+*~
+.*.swp
+
+# Garbages
+.DS_Store
+Thumbs.db
+
+# java
+java/**/*.class
