@@ -6,5 +6,6 @@
 .DS_Store
 Thumbs.db
 
-# java
+# java / scala
 java/**/*.class
+scala/**/*.class
