@@ -1,4 +1,4 @@
-behaviors
+behaviours
 =========
 
-Repository of histories which are use to check behaviors of programming languages.
+Repository of histories which are use to check behaviours of programming languages.
